@@ -15,7 +15,7 @@ biggest2() {
     else if (b > a)
     { 
         printf("%d is Largest\n", b);  
-    } 
+    } .
     else 
     {
 	printf("Both are Equal\n");
