@@ -19,7 +19,7 @@ biggest2() {
     else 
     {
 	printf("Both are Equal\n");
-    }
+    }.
    
    // return 0;  
 }
